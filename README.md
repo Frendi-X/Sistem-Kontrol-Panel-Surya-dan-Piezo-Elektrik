@@ -104,3 +104,4 @@ Proyek ini bersifat open-source. Silakan digunakan, dimodifikasi, dan dikembangk
 
 ## 👨‍💻 Author
 Dikembangkan oleh: Imam Sa'id Nurfrendi [Reog Robotic & Robotech Electronics]  
+Sistem-Kontrol-Panel-Surya-dan-Piezo-Elektrik
