@@ -101,3 +101,6 @@ Proyek ini bersifat open-source. Silakan digunakan, dimodifikasi, dan dikembangk
 - Baris 4 → Curah hujan (mm) + LUX  
 
 ---
+
+## 👨‍💻 Author
+Dikembangkan oleh: Imam Sa'id Nurfrendi [Reog Robotic & Robotech Electronics]  
